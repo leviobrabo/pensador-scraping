@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ignr
+Version: 2.2
+Summary: Python command line client to download.gitignore templates from gitignore.io
+Home-page: https://github.com/Antrikshy/ignr
+Author: Antriksh Yadav
+Author-email: antrikshy@gmail.com
+License: MIT
+Keywords: git gitignore gitignore.io developer
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Version Control :: Git
+License-File: LICENSE
+
